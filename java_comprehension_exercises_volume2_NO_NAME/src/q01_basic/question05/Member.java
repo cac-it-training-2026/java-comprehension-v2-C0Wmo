@@ -30,6 +30,12 @@ public class Member extends AbstMember {
 		return super.getName();
 	}
 
+	@Override
+	public void setName(String name) {
+		// TODO 自動生成されたメソッド・スタブ
+		super.setName(name);
+	}
+
 	public int getAge() {
 		return age;
 	}
@@ -56,7 +62,7 @@ public class Member extends AbstMember {
 	 * @param age
 	 * @param rank
 	 */
-	public Member(int id, String password, int age, int rank) {
+	public Member(int id, String password, String name, int age, int rank) {
 		this.id = id;
 		this.password = password;
 		this.age = age;
