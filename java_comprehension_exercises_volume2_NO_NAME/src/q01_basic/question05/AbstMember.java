@@ -8,6 +8,7 @@ package q01_basic.question05;
 abstract class AbstMember {
 
 	/**
+	 * 
 	 * name protected access
 	 */
 	protected String name;
