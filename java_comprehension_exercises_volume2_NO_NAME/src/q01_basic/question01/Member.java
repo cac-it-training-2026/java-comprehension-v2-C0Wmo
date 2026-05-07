@@ -10,6 +10,7 @@ class Member {
 	int age;
 	int rank;
 
+	//引数なしのコンストラクタ
 	public void showMember() {
 
 		System.out.println("***MEMBER DATA***");
