@@ -12,6 +12,8 @@ public class SystemMain03 {
 		nullMember.showMember();
 		miura.showMember();
 
+		//		
+
 	}
 
 }
