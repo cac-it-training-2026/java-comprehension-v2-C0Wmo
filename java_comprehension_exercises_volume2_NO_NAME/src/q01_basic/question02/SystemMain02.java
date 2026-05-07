@@ -20,4 +20,5 @@ public class SystemMain02 {
 		miura.getRank();
 
 	}
+
 }

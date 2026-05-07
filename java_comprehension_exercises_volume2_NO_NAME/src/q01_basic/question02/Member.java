@@ -34,6 +34,7 @@ class Member {
 		rank += 1;
 	}
 
+	//
 	public void showMember() {
 		System.out.println("***MEMBER DATA***");
 		System.out.println("name:" + name);
